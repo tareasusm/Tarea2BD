@@ -9,8 +9,13 @@
 <body>
     <form id="form1" runat="server">
     <div>
+<<<<<<< HEAD
     
         voy a modificar toda esta cosa.</div>
+=======
+        Agregando codigo
+        este es un nuevo hola mundo</div>
+>>>>>>> 7fef4aa6d1edfc54861d5b76623af1ca0f9c843c
     </form>
 </body>
 </html>
