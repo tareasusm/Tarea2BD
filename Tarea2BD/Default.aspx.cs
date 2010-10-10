@@ -19,7 +19,6 @@ namespace Tarea2BD
         {
  		int i;
 		i++;
-			//asdasdasd
             aasdasd
         }
     }
