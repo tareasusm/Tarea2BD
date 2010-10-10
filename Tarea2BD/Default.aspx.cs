@@ -23,7 +23,11 @@ namespace Tarea2BD
              asdasda       
              ss
 
+<<<<<<< HEAD
 asdasda
+=======
+asdasd
+>>>>>>> asdads
 
 			otra bazofiua
 			asdasd
