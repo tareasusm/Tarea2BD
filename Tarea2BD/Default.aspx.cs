@@ -18,7 +18,12 @@ namespace Tarea2BD
         protected void Page_Load(object sender, EventArgs e)
         {
  		    int i;
+<<<<<<< HEAD
 		la continuacion....
+=======
+            i = 3;
+            System.OutOfMemoryException;
+>>>>>>> 030cc6492973b7ad5b44ddf95dc0779d988742ce
         }
     }
 }
