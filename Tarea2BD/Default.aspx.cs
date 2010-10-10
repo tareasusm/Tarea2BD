@@ -19,18 +19,7 @@ namespace Tarea2BD
         {
  		    int i; 
 			
-			asdº
-             asdasda       
-             ss
 
-<<<<<<< HEAD
-asdasda
-=======
-asdasd
->>>>>>> asdads
-
-			otra bazofiua
-			asdasd
         }
     }
 }
