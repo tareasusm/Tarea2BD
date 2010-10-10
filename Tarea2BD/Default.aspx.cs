@@ -17,7 +17,12 @@ namespace Tarea2BD
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             asdas
+=======
+            int i;
+   
+>>>>>>> 6f520e8ef4eadf113300119cf73006f08246438a
         }
     }
 }
