@@ -18,7 +18,8 @@ namespace Tarea2BD
         protected void Page_Load(object sender, EventArgs e)
         {
  		    int i;
-
+            i = 3;
+            System.OutOfMemoryException;
         }
     }
 }
