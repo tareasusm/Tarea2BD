@@ -19,13 +19,7 @@ namespace Tarea2BD
         {
  		    int i;
 		    i++;
-<<<<<<< HEAD
-            asdasd
-            i = 3;
-=======
-asdasdas
-            		i = 3;
->>>>>>> 1d1c71c75da4ca3d4b285d7244a5e2ca547cc158
+
 
         }
     }
