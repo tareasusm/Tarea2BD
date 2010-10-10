@@ -3,3 +3,8 @@ C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\bin\Tarea2BD.pd
 C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.dll
 C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.pdb
+C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\Tarea2BD\bin\Tarea2BD.dll
+C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\Tarea2BD\bin\Tarea2BD.pdb
+C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\Tarea2BD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.dll
+C:\Users\Mario\Documents\UTFSM\6to semestre\BD\Tarea2BD\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.pdb
