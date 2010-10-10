@@ -18,11 +18,7 @@ namespace Tarea2BD
         protected void Page_Load(object sender, EventArgs e)
         {
  		    int i;
-<<<<<<< HEAD
-=======
-		    i++;
->>>>>>> 686e50b0067f6b8b1afa224c8b25e7a077c5237e
-
+			asdasda
 
         }
     }
