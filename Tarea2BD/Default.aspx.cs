@@ -20,7 +20,7 @@ namespace Tarea2BD
  		    int i; 
             asda
 
-
+            asda
         }
     }
 }
